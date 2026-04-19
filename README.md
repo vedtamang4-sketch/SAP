@@ -1,7 +1,7 @@
 # SAP R2R Capstone Project — Record-to-Report Financial Close
 
 ## Overview
-This project simulates the complete **Record-to-Report (R2R)** process in SAP FI/CO for a fictitious company **KIIT Industries Pvt. Ltd.** (Company Code: K100), covering month-end financial close activities for Jan–Jun 2025.
+This project simulates the complete **Record-to-Report (R2R)** process in SAP FI/CO for a fictitious company **PrimeEdge Enterprises Pvt. Ltd.** (Company Code: K100), covering month-end financial close activities for Jan–Jun 2025.
 
 ---
 
